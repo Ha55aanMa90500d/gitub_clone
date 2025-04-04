@@ -1,0 +1,164 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.flex{
+    display: flex;
+}
+.grid{
+    display: grid;
+}
+.block{
+    display: block;
+}
+.inline-block{
+    display: inline-block;
+}
+.c-gp-1{
+    column-gap: 5px;
+}
+.c-gp-2{
+    column-gap: 10px;
+}
+.c-gp-3{
+    column-gap: 15px;
+}
+.c-gp-4{
+    column-gap: 20px;
+}
+.c-gp-5{
+    column-gap: 25px;
+}
+.r-gp-1{
+    row-gap: 5px;
+}
+.r-gp-2{
+    row-gap: 10px;
+}
+.r-gp-3{
+    row-gap: 15px;
+}
+.r-gp-4{
+    row-gap: 20px;
+}
+.r-gp-5{
+    row-gap: 25px;
+}
+.py-1{
+    padding-block: 10px;
+}
+.py-2{
+    padding-block: 20px;
+}
+.py-3{
+    padding-block: 30px;
+}
+.py-4{
+    padding-block: 40px;
+}
+.py-5{
+    padding-block: 50px;
+}
+.px-1{
+    padding-inline: 10px;
+}
+.px-2{
+    padding-inline: 20px;
+}
+.px-3{
+    padding-inline: 30px;
+}
+.px-4{
+    padding-inline: 40px;
+}
+.px-5{
+    padding-inline: 50px;
+}
+
+.items-start{
+    align-items: start;
+}
+.items-center{
+    align-items: center;
+}
+.items-end{
+    align-items: end;
+}
+.justify-start{
+    justify-content: start;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-end{
+    justify-content: end;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.justify-around{
+    justify-content: space-around;
+}
+.justify-evenly{
+    justify-content: space-evenly;
+}
+.list-none{
+    list-style: none;
+}
+.bg-none{
+    background: transparent;
+}
+.link{
+    font-size: 14px;
+    color: #fff;
+    text-decoration:none;
+    cursor: pointer;  
+    opacity: 1;
+    transition: all .2s linear;
+}
+.link:hover{
+    opacity: .75;
+}
+.link2{
+    font-size: 14px;
+    color: #fff;
+    border: 1px solid #d1d9e0;
+    padding: 4px 12px;
+    text-decoration:none;
+    cursor: pointer;  
+    opacity: 1;
+    transition: all .2s linear;
+}
+.link2:hover{
+    opacity: .75;
+}
+.link3{
+    font-size: 16px;
+    color: #fff;
+    font-weight: 600;
+    border: 1px solid #116329;
+    background: #116329;
+    padding: 12px 20px;
+    text-decoration:none;
+    cursor: pointer;  
+    opacity: 1;
+    border-radius: 10px;
+    transition: all .2s linear;
+}
+.link3:hover{
+    opacity: .75;
+}
+.text-larger{
+    font-size: 64px;
+    font-weight: 600;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 0px;
+    line-height: 1.2;
+    padding-bottom: 20px;
+}
+h1{
+    font-family: "Mona Sans", sans-serif;
+}
