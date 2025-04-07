@@ -37,7 +37,7 @@ function Navbar() {
                   <path fill="#fff" d="M14.5 14.25a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Zm-5 0a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Z"></path>
                 </svg>
                 <div>
-                  <a className="block">Github Copilot</a>
+                  <a className="block" href="#">Github Copilot</a>
                   <span>Write better code with AI</span>
                 </div>
               </div>
@@ -79,7 +79,7 @@ function Navbar() {
                   <path fill="#fff" d="M14.5 14.25a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Zm-5 0a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Z"></path>
                 </svg>
                 <div>
-                  <a className="block">Github Copilot</a>
+                  <a className="block" href="#">Github Copilot</a>
                   <span>Write better code with AI</span>
                 </div>
               </div>
@@ -121,7 +121,7 @@ function Navbar() {
                   <path fill="#fff" d="M14.5 14.25a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Zm-5 0a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Z"></path>
                 </svg>
                 <div>
-                  <a className="block">Github Copilot</a>
+                  <a className="block" href="#">Github Copilot</a>
                   <span>Write better code with AI</span>
                 </div>
               </div>
@@ -163,7 +163,7 @@ function Navbar() {
                   <path fill="#fff" d="M14.5 14.25a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Zm-5 0a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Z"></path>
                 </svg>
                 <div>
-                  <a className="block">Github Copilot</a>
+                  <a className="block" href="#">Github Copilot</a>
                   <span>Write better code with AI</span>
                 </div>
               </div>
@@ -205,7 +205,7 @@ function Navbar() {
                   <path fill="#fff" d="M14.5 14.25a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Zm-5 0a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Z"></path>
                 </svg>
                 <div>
-                  <a className="block">Github Copilot</a>
+                  <a className="block" href="#">Github Copilot</a>
                   <span>Write better code with AI</span>
                 </div>
               </div>
